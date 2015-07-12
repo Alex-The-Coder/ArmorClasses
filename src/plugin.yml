@@ -1,0 +1,5 @@
+name: ArmorClasses
+author: AlexTheCoder
+version: 1.0
+main: me.AlexTheCoder.ArmorClasses.Main
+depend: [MassiveCore, Factions]
