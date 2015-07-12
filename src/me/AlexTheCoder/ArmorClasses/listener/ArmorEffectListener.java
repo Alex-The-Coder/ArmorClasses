@@ -1,8 +1,8 @@
 package me.AlexTheCoder.ArmorClasses.listener;
 
 import me.AlexTheCoder.ArmorClasses.Main;
-import me.AlexTheCoder.ArmorClasses.listener.util.ArmorUtil;
-import me.AlexTheCoder.ArmorClasses.listener.util.ArmorUtil.ArmorType;
+import me.AlexTheCoder.ArmorClasses.util.ArmorUtil;
+import me.AlexTheCoder.ArmorClasses.util.ArmorUtil.ArmorType;
 
 import org.bukkit.Bukkit;
 import org.bukkit.GameMode;

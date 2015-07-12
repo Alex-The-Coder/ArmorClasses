@@ -1,4 +1,4 @@
-package me.AlexTheCoder.ArmorClasses.listener.util;
+package me.AlexTheCoder.ArmorClasses.util;
 
 import org.bukkit.Material;
 import org.bukkit.inventory.ItemStack;
